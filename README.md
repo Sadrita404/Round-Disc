@@ -18,6 +18,12 @@
 ## Overview
 It is an Round Disc where we can easily make professional 360° photos and animations of products . And it is motorized.
 
+### Why I chose this project?
+
+So behind this project, it isn't kind of story like when I complete any project. I need to take some photo so that I can put it in the social media or it can be a hack club project so I can put it in the GitHub, but during taking pictures are different, it just make a whole chaos, so I make this one where we can put the object or the element and we can rotate it and get and good video or image that I wanted.
+
+### How to use this project
+ This project is mainly used in photo shoot and also taking 360 photo or video of some element.
 
 <div id="-screenshots" align="center">
   <h3>CAD Work </h3>
